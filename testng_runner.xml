@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="SuiteCRM Regression Automation" verbose="2">
+
+	<test name="Automation">
+		<classes>
+			<class name="com.Ryze.runners.TestRunner"></class>
+		</classes>
+	</test>
+</suite>
